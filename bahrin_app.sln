@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bahrin_app", "bahrin_app\bahrin_app.csproj", "{96046A46-29C2-4180-9B1D-5A00157F3363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96046A46-29C2-4180-9B1D-5A00157F3363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96046A46-29C2-4180-9B1D-5A00157F3363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96046A46-29C2-4180-9B1D-5A00157F3363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96046A46-29C2-4180-9B1D-5A00157F3363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D755EBF4-6A40-4965-8ED0-25C96E3AB35F}
+	EndGlobalSection
+EndGlobal
